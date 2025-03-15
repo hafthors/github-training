@@ -10,6 +10,10 @@
 
 <h1>This is Github trial</h1>
 
+<img src="giphy.gif">
+
+<p>I like cats very much!</p>
+
 
 
 
