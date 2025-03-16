@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -18,7 +18,7 @@
 
 
 <footer>
-  Made with ❤️ in London.
+  Made with ❤️ in Berlin.
 </footer>
 </body>
 </html>
