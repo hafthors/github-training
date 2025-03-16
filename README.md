@@ -23,17 +23,14 @@
   <button type="button" class="btn btn-light">Light</button>
   <button type="button" class="btn btn-link">Link</button>      
 </div>
+</body>
 
-
+<body>
 <img src="giphy.gif">
 
 <p>I like cats very much!</p>
 
 
 
-
-<footer>
-  Made with ❤️ in Berlin.
-</footer>
 </body>
 </html>
